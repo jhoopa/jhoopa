@@ -1,6 +1,6 @@
 <img src="./assets/header.png" width="100%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=800&size=40&height=140&lines=Hello%2C+my+name+is+Julio+Pablo;+I'm+a+software+developer" align=center>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=800&size=40&height=140&lines=Hello%2C+my+name+is+Júlio+Pablo;+I'm+a+software+developer" align=center>
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width=64 height=64 alt="JavaScript">
